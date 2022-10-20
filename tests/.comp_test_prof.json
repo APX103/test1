@@ -1,0 +1,23 @@
+{
+    "repo": "APX103/test1", 
+    "version": {
+        "type": "branch",
+        "value": "main"
+    },
+    "dependencies": [
+        {
+            "repo": "APX103/test2",
+            "version": {
+                "type": "branch",
+                "value": "main"
+            }
+        },
+        {
+            "repo": "APX103/test3",
+            "version": {
+                "type": "branch",
+                "value": "main"
+            }
+        }
+    ]
+}
