@@ -1,7 +1,7 @@
 assign:
   strategy:
-    # random
-    daily-shift-based
+    random
+    # daily-shift-based
   scedule:
     '*/1 * * * *'
   assignees:
